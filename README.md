@@ -1,9 +1,4 @@
-![Uploading screencapture-127-0-0-1-5500-content-index-html-2024-05-24-11_54_29.png…]()
-
-![Uploading screencapture-127-0-0-1-5500-content-productdetail-html-2024-05-24-11_55_12.png…]()
-
-![Uploading screencapture-127-0-0-1-5500-content-cart-html-2024-05-24-11_57_20.png…]()
-
+![screencapture-127-0-0-1-5500-content-index-html-2024-05-24-11_54_29](https://github.com/jogeorge07/Flask-Web-App/assets/86243195/15fc7c62-1363-493a-9b37-5fd1066303d7)
 
 # FLASK-WEB-APP
 
